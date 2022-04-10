@@ -1,1 +1,2 @@
-# SABATATE-
+# SABATATE
+このソフトはMinecraftのサーバーをngrokを使って公開するプログラムです。
